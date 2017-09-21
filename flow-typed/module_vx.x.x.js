@@ -10,9 +10,6 @@ declare module "react-native" {
 declare module "color" {
 	declare module.exports: any;
 }
-declare module "expo" {
-	declare module.exports: any;
-}
 declare module "react-test-renderer" {
 	declare module.exports: any;
 }
