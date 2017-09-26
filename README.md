@@ -20,7 +20,7 @@
 On the command prompt run the following commands
 
 ```sh
-$ git clone https://github.com/GeekyAnts/react-native-boilerplate-basic-flow.git
+$ git clone -b RN https://github.com/GeekyAnts/react-native-boilerplate-basic-flow.git
 
 $ cd react-native-boilerplate-basic-flow/
 
